@@ -1,0 +1,6 @@
+{
+  "name": "BatiPromote DZ - Gestion Immobilière & Multi-Chantiers",
+  "description": "Plateforme ERP de gestion intégrée pour promoteurs immobiliers : suivi multi-chantiers, caisses de fond de roulement en Dinar Algérien (DZD), trésorerie, règlements, sous-traitants, clients VSP, stocks et GED.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
